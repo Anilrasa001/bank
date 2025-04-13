@@ -1,0 +1,41 @@
+/* Home.css */
+
+/* Navbar */
+.navbar {
+    background-color: #8cd1ac; /* Light gray */
+    color: #181b1e; /* Dark gray text */
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    background-color: #e5afc5; /* White background */
+    border-right: 1px solid #dee2e6; /* Light border */
+    height: 100vh;
+    padding: 1rem;
+  }
+  
+  .sidebar h5 {
+    color: #495057; /* Darker gray for headings */
+    margin-bottom: 1rem;
+  }
+  
+  .sidebar .btn {
+    margin-bottom: 0.5rem;
+    text-align: left;
+  }
+  
+  /* Main Content */
+  .main-content {
+    background-color: #b9cde2; /* Very light gray */
+    padding: 2rem;
+    min-height: 100vh;
+  }
+  
+  .main-content h2 {
+    color: #343a40; /* Dark gray */
+  }
+  
+  .main-content p {
+    color: #6c757d; /* Medium gray */
+  }
+  
